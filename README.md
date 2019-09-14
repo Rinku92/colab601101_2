@@ -1,4 +1,5 @@
 # colab601101_2
+<<<<<<< HEAD
 s [Version 10.0.17763.737]
 (c) 2018 Microsoft Corporation. All rights reserved.
 
@@ -198,3 +199,10 @@ To https://github.com/Rinku92/colab601101_2
    5c5de6c..c772b37  master -> master
 
 C:\Users\rish9\Desktop\colab601101_2>
+=======
+
+So many files!
+I think I will add some more.
+
+Added some more
+>>>>>>> 86b9c8dbc84e36e37e11f108803cd9125b602202
